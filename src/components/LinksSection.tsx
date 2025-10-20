@@ -16,7 +16,7 @@ export function LinksSection() {
       id: "gestao-marketplace",
       title: "Contratar gestão de marketplace",
       description: "Impulsione suas vendas com nossa gestão especializada",
-      url: "https://turbodigital.com.br/gestao-marketplace",
+      url: "https://marketplace.agenciaturbodigital.com.br/",
       icon: <ShoppingBag className="h-6 w-6" />,
       variant: "primary"
     },
@@ -24,27 +24,27 @@ export function LinksSection() {
       id: "turbo-hub",
       title: "Turbo Hub",
       description: "Hub de ferramentas para Marketplace",
-      url: "https://turbohub.com.br",
+      url: "https://hub.agenciaturbodigital.com.br/",
       icon: <LayoutDashboard className="h-6 w-6" />
     },
     {
       id: "comunidade",
       title: "Comunidade Turbo",
       description: "Conecte-se com outros empreendedores digitais",
-      url: "https://comunidade.turbodigital.com.br",
+      url: "https://comunidade.agenciaturbodigital.com.br/",
       icon: <Users className="h-6 w-6" />
     },
     {
       id: "fotos-ia",
       title: "Fotos de IA",
       description: "Crie imagens profissionais com inteligência artificial",
-      url: "https://fotos.turbodigital.com.br",
+      url: "https://ia.agenciaturbodigital.com.br/",
       icon: <Camera className="h-6 w-6" />
     },
     {
-      id: "contato",
-      title: "Entre em contato",
-      description: "Fale conosco e tire suas dúvidas",
+      id: "contratacao",
+      title: "Trabalhe Conosco",
+      description: "Venha fazer parte do time Turbo Digital",
       url: "https://turbodigital.com.br/contato",
       icon: <Mail className="h-6 w-6" />
     }

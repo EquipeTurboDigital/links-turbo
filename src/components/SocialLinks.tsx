@@ -18,22 +18,22 @@ export function SocialLinks() {
   const socialLinks = [
     {
       name: "Instagram",
-      url: "https://instagram.com/turbodigital",
+      url: "https://www.instagram.com/turbodigitaloficial/",
       icon: Instagram
     },
     {
       name: "TikTok",
-      url: "https://tiktok.com/@turbodigital",
+      url: "https://www.tiktok.com/@turbodigitaloficial",
       icon: TikTokIcon
     },
     {
       name: "YouTube",
-      url: "https://youtube.com/@turbodigital",
+      url: "https://www.youtube.com/@turbodigitaloficial",
       icon: Youtube
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/company/turbodigital",
+      url: "https://www.linkedin.com/company/turbo-digital-oficial/",
       icon: Linkedin
     }
   ];
