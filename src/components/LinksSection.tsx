@@ -45,7 +45,7 @@ export function LinksSection() {
       id: "contratacao",
       title: "Trabalhe Conosco",
       description: "Venha fazer parte do time Turbo Digital",
-      url: "https://turbodigital.com.br/contato",
+      url: "https://form.respondi.app/yDGonwsE",
       icon: <Mail className="h-6 w-6" />
     }
   ];
