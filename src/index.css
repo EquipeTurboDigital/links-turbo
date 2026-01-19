@@ -306,6 +306,8 @@
     --primary-foreground: #fff;
     --secondary: #0a142f;
     --secondary-foreground: #fff;
+    --accent: #0a142f;
+    --accent-foreground: #fff;
     --background: #fff;
     --foreground: #0a142f;
     --card: #fff;
@@ -323,6 +325,8 @@
     --muted: #262626;
     --muted-foreground: #999;
     --border: #ffffff1a;
+    --accent: #1a1a1a;
+    --accent-foreground: #fff;
   }
 
   html {
